@@ -419,32 +419,37 @@ Shows the main page of the application.
 ### Screenshot 2: Completed Form
 Shows the completed form submission.
 
-<img src="screenshots/02-completed-form.png" alt="Completed Form" width="900">
+<img width="1917" height="964" alt="02-completed-form" src="https://github.com/user-attachments/assets/1d333034-ee76-4d81-86ec-309291a7066e" />
+
 
 ### Screenshot 3: Successful Insert
 Shows the successful insertion of data.
 
-<img src="screenshots/03-successful-insert.png" alt="Successful Insert" width="900">
+<img width="1909" height="965" alt="03-successful-insert" src="https://github.com/user-attachments/assets/e56d0f96-5a1c-4f6e-a1b8-64542d2afd2d" />
 
 ### Screenshot 4: Record List
 Shows the list of records stored in the application.
 
-<img src="screenshots/04-record-list.png" alt="Record List" width="900">
+<img width="1919" height="957" alt="04-record-list" src="https://github.com/user-attachments/assets/47a06ed2-4d4d-4467-a76d-8356691ddb67" />
+
 
 ### Screenshot 5: Search Working
 Shows the search functionality working successfully.
 
-<img src="screenshots/05-search-working.png" alt="Search Working" width="900">
+<img width="1919" height="998" alt="05-search-working" src="https://github.com/user-attachments/assets/3ffba5bf-45d5-471d-a049-1497c5088ab0" />
+
 
 ### Screenshot 6: Security Test
 Shows the security testing result.
 
-<img src="screenshots/06-security-testing.png" alt="Security Test" width="900">
+<img width="1919" height="1012" alt="06-security-test" src="https://github.com/user-attachments/assets/1c356890-3294-4798-b512-6bdec9ab97ed" />
+
 
 ### Screenshot 7: InfinityFree URL
 Shows the deployed application on InfinityFree.
 
-<img src="screenshots/07-infinityfree-url.png" alt="InfinityFree URL" width="900">
+<img width="1915" height="967" alt="07-infinityfree-url" src="https://github.com/user-attachments/assets/e8eba08b-af74-471a-987f-9462bdaa7045" />
+
 
 ## 14. Conclusion
 
