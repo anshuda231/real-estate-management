@@ -414,7 +414,7 @@ The following screenshots demonstrate the working application.
 ### Screenshot 1: Home Page
 Shows the main page of the application.
 
-<img src="screenshots/01-home-page.png" alt="Home Page" width="900">
+<img width="1919" height="975" alt="01-home-page" src="https://github.com/user-attachments/assets/9e53bd24-6b58-4b0b-a660-873aed628ce1" />
 
 ### Screenshot 2: Completed Form
 Shows the completed form submission.
